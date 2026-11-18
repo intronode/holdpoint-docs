@@ -1,0 +1,7 @@
+title: Holdpoint for Jira
+description: Documentation, support and privacy policy for Holdpoint for Jira, published by Intronode Korea Inc.
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
