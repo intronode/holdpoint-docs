@@ -24,13 +24,17 @@ We aim to reply within five business days. A business day is Monday to Friday, e
 
 That sentence is the whole support promise. It does not cover weekends. It is not an uptime guarantee and not a promise that a Jira or Forge incident will be resolved in that time.
 
-This page is the support Intronode offers for this free app.
+Partner support is required for apps that customers pay for through Atlassian. For other public listings it is optional. This page is the support Intronode offers for this free app.
 
 ## Security reports
 
 Report a security issue in private. Use the repository's **Security → Report a vulnerability** form (GitHub private vulnerability reporting), or write to privacy@intronode.com. Do not open a public issue.
 
 We aim to reply within five business days, on the same business-day rule. That is the same promise as ordinary support, and nothing stronger.
+
+Separately, the [Marketplace Partner Agreement](https://www.atlassian.com/legal/archives/partneragreement/partneragreement-20251130), section 8.4(g), requires notice to Atlassian within 48 hours of discovery of a security incident, using Atlassian's incident ticket link, unless the law prohibits the notice. That 48-hour duty is Intronode's notice to Atlassian. It is not a promise to customers.
+
+Customer breach notices that mention Atlassian need Atlassian's approval first, under that same section.
 
 ## What this contact channel is not
 
